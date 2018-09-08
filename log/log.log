@@ -1,0 +1,234 @@
+2018-09-08 03:14:37,938 [main] INFO  by.smirnov.taskXML.runner.Runner - Validator
+---------
+2018-09-08 03:14:38,014 [main] ERROR by.smirnov.taskXML.util.SchemaValidator - XML is valid
+2018-09-08 03:14:38,014 [main] INFO  by.smirnov.taskXML.runner.Runner - SAX Parser
+---------
+2018-09-08 03:14:38,093 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Unlim: Details (Operator: MTS Payroll: 16.37 Call Price - Internal calls: 0.03 External calls: 0.07 Calls on fixed phones: 0.07 SMS price: 0.05 Options - Favourite number: 1 Tariffing: ONE_MINUTE Connection fee: 16.37 Date of connect: Tue Aug 21 00:00:00 MSK 2018)
+2018-09-08 03:14:38,093 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - EasyTalk: Details (Operator: MTS Payroll: 0.6 Call Price - Internal calls: 0.07 External calls: 0.15 Calls on fixed phones: 0.15 SMS price: 0.02 Options - Favourite number: 2 Tariffing: TWELVE_SECONDS Connection fee: 0.6 Date of connect: Wed Aug 22 00:00:00 MSK 2018)
+2018-09-08 03:14:38,094 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Ultra: Details (Operator: MTS Payroll: 49.38 Call Price - Internal calls: 0.02 External calls: 0.08 Calls on fixed phones: 0.08 SMS price: 0.04 Options - Favourite number: 1 Tariffing: ONE_MINUTE Connection fee: 50.0 Date of connect: Sun Aug 05 00:00:00 MSK 2018)
+2018-09-08 03:14:38,094 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Absolut: Details (Operator: MTS Payroll: 133.9 Call Price - Internal calls: 0.0 External calls: 0.0 Calls on fixed phones: 0.0 SMS price: 0.0 Options - Favourite number: 5 Tariffing: ONE_MINUTE Connection fee: 135.0 Date of connect: Sun Aug 19 00:00:00 MSK 2018)
+2018-09-08 03:14:38,094 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Lite: Details (Operator: MTS Payroll: 6.07 Call Price - Internal calls: 0.04 External calls: 0.11 Calls on fixed phones: 0.11 SMS price: 0.05 Options - Favourite number: 1 Tariffing: TWELVE_SECONDS Connection fee: 3.0 Date of connect: Fri Aug 17 00:00:00 MSK 2018)
+2018-09-08 03:14:38,094 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Mini: Details (Operator: MTS Payroll: 12.25 Call Price - Internal calls: 0.03 External calls: 0.07 Calls on fixed phones: 0.07 SMS price: 0.05 Options - Favourite number: 2 Tariffing: TWELVE_SECONDS Connection fee: 3.0 Date of connect: Sat Jul 21 00:00:00 MSK 2018)
+2018-09-08 03:14:38,095 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Comfort: Details (Operator: VELCOM Payroll: 11.11 Call Price - Internal calls: 0.0 External calls: 0.14 Calls on fixed phones: 0.14 SMS price: 0.04 Options - Favourite number: 1 Tariffing: TWELVE_SECONDS Connection fee: 5.0 Date of connect: Sun Jul 01 00:00:00 MSK 2018)
+2018-09-08 03:14:38,095 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - ComfortDouble: Details (Operator: VELCOM Payroll: 16.72 Call Price - Internal calls: 0.0 External calls: 0.11 Calls on fixed phones: 0.11 SMS price: 0.04 Options - Favourite number: 2 Tariffing: TWELVE_SECONDS Connection fee: 5.0 Date of connect: Mon Jul 02 00:00:00 MSK 2018)
+2018-09-08 03:14:38,095 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - ComfortTriple: Details (Operator: VELCOM Payroll: 18.97 Call Price - Internal calls: 0.0 External calls: 0.08 Calls on fixed phones: 0.08 SMS price: 0.04 Options - Favourite number: 3 Tariffing: TWELVE_SECONDS Connection fee: 5.0 Date of connect: Wed Jul 25 00:00:00 MSK 2018)
+2018-09-08 03:14:38,095 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Lemon: Details (Operator: VELCOM Payroll: 29.9 Call Price - Internal calls: 0.07 External calls: 0.07 Calls on fixed phones: 0.07 SMS price: 0.04 Options - Favourite number: 5 Tariffing: TWELVE_SECONDS Connection fee: 29.9 Date of connect: Sun Jul 29 00:00:00 MSK 2018)
+2018-09-08 03:14:38,096 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Smart: Details (Operator: VELCOM Payroll: 56.02 Call Price - Internal calls: 0.0 External calls: 0.08 Calls on fixed phones: 0.08 SMS price: 0.04 Options - Favourite number: 2 Tariffing: ONE_MINUTE Connection fee: 40.0 Date of connect: Fri Aug 31 00:00:00 MSK 2018)
+2018-09-08 03:14:38,096 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Business: Details (Operator: VELCOM Payroll: 112.15 Call Price - Internal calls: 0.0 External calls: 0.0 Calls on fixed phones: 0.0 SMS price: 0.04 Options - Favourite number: 5 Tariffing: ONE_MINUTE Connection fee: 112.15 Date of connect: Sat Aug 11 00:00:00 MSK 2018)
+2018-09-08 03:14:38,096 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Start: Details (Operator: LIFE Payroll: 0.0 Call Price - Internal calls: 0.07 External calls: 0.07 Calls on fixed phones: 0.07 SMS price: 0.04 Options - Favourite number: 1 Tariffing: TWELVE_SECONDS Connection fee: 0.0 Date of connect: Thu Aug 30 00:00:00 MSK 2018)
+2018-09-08 03:14:38,096 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - WorldInHands: Details (Operator: LIFE Payroll: 0.0 Call Price - Internal calls: 0.08 External calls: 0.08 Calls on fixed phones: 0.08 SMS price: 0.04 Options - Favourite number: 5 Tariffing: TWELVE_SECONDS Connection fee: 0.0 Date of connect: Tue Aug 21 00:00:00 MSK 2018)
+2018-09-08 03:14:38,096 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - Android: Details (Operator: LIFE Payroll: 0.0 Call Price - Internal calls: 0.4 External calls: 0.9 Calls on fixed phones: 0.9 SMS price: 0.04 Options - Favourite number: 1 Tariffing: TWELVE_SECONDS Connection fee: 0.0 Date of connect: Thu Aug 23 00:00:00 MSK 2018)
+2018-09-08 03:14:38,096 [main] INFO  by.smirnov.taskXML.runner.Runner - Tariff - XXL: Details (Operator: LIFE Payroll: 27.0 Call Price - Internal calls: 0.08 External calls: 0.08 Calls on fixed phones: 0.08 SMS price: 0.04 Options - Favourite number: 5 Tariffing: TWELVE_SECONDS Connection fee: 27.0 Date of connect: Tue Aug 14 00:00:00 MSK 2018)
+2018-09-08 03:14:38,096 [main] INFO  by.smirnov.taskXML.runner.Runner - DOM Parser
+---------
+2018-09-08 03:14:38,104 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Root element: tariffs
+2018-09-08 03:14:38,105 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,105 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Unlim
+2018-09-08 03:14:38,105 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : MTS
+2018-09-08 03:14:38,105 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 16.37
+2018-09-08 03:14:38,106 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0.03
+2018-09-08 03:14:38,106 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.07
+2018-09-08 03:14:38,106 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.07
+2018-09-08 03:14:38,106 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.05
+2018-09-08 03:14:38,106 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 1
+2018-09-08 03:14:38,107 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 1-min
+2018-09-08 03:14:38,107 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 16.37
+2018-09-08 03:14:38,107 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-21
+2018-09-08 03:14:38,107 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,107 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : EasyTalk
+2018-09-08 03:14:38,107 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : MTS
+2018-09-08 03:14:38,107 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 0.6
+2018-09-08 03:14:38,107 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0.07
+2018-09-08 03:14:38,107 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.15
+2018-09-08 03:14:38,107 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.15
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.02
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 2
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 0.6
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-22
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Ultra
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : MTS
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 49.38
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0.02
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.08
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.08
+2018-09-08 03:14:38,108 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 1
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 1-min
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 50
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-05
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Absolut
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : MTS
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 133.9
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0
+2018-09-08 03:14:38,109 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 5
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 1-min
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 135
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-19
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Lite
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : MTS
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 6.07
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0.04
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.11
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.11
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.05
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 1
+2018-09-08 03:14:38,110 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 3
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-17
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Mini
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : MTS
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 12.25
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0.03
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.07
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.07
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.05
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 2
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,111 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 3
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-07-21
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Comfort
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : Velcom
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 11.11
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.14
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.14
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 1
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 5
+2018-09-08 03:14:38,112 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-07-01
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : ComfortDouble
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : Velcom
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 16.72
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.11
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.11
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 2
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,113 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 5
+2018-09-08 03:14:38,114 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-07-02
+2018-09-08 03:14:38,114 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,114 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : ComfortTriple
+2018-09-08 03:14:38,114 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : Velcom
+2018-09-08 03:14:38,114 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 18.97
+2018-09-08 03:14:38,114 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0
+2018-09-08 03:14:38,114 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.08
+2018-09-08 03:14:38,114 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.08
+2018-09-08 03:14:38,114 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,114 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 3
+2018-09-08 03:14:38,115 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,115 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 5
+2018-09-08 03:14:38,115 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-07-25
+2018-09-08 03:14:38,115 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,115 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Lemon
+2018-09-08 03:14:38,115 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : Velcom
+2018-09-08 03:14:38,115 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 29.9
+2018-09-08 03:14:38,115 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0.07
+2018-09-08 03:14:38,116 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.07
+2018-09-08 03:14:38,116 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.07
+2018-09-08 03:14:38,116 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,116 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 5
+2018-09-08 03:14:38,116 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,116 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 29.9
+2018-09-08 03:14:38,116 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-07-29
+2018-09-08 03:14:38,116 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,116 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Smart
+2018-09-08 03:14:38,117 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : Velcom
+2018-09-08 03:14:38,117 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 56.02
+2018-09-08 03:14:38,117 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0
+2018-09-08 03:14:38,117 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.08
+2018-09-08 03:14:38,117 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.08
+2018-09-08 03:14:38,117 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,117 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 2
+2018-09-08 03:14:38,117 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 1-min
+2018-09-08 03:14:38,117 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 40
+2018-09-08 03:14:38,118 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-31
+2018-09-08 03:14:38,118 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,118 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Business
+2018-09-08 03:14:38,118 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : Velcom
+2018-09-08 03:14:38,118 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 112.15
+2018-09-08 03:14:38,118 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0
+2018-09-08 03:14:38,118 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0
+2018-09-08 03:14:38,118 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0
+2018-09-08 03:14:38,118 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,119 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 5
+2018-09-08 03:14:38,119 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 1-min
+2018-09-08 03:14:38,119 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 112.15
+2018-09-08 03:14:38,119 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-11
+2018-09-08 03:14:38,119 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,119 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Start
+2018-09-08 03:14:38,119 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : Life
+2018-09-08 03:14:38,119 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 0
+2018-09-08 03:14:38,119 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0.07
+2018-09-08 03:14:38,119 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.07
+2018-09-08 03:14:38,120 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.07
+2018-09-08 03:14:38,120 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,120 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 1
+2018-09-08 03:14:38,120 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,120 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 0
+2018-09-08 03:14:38,120 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-30
+2018-09-08 03:14:38,120 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,120 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : WorldInHands
+2018-09-08 03:14:38,120 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : Life
+2018-09-08 03:14:38,120 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 0
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0.08
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.08
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.08
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 5
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 0
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-21
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : Android
+2018-09-08 03:14:38,121 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : Life
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 0
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0.4
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.9
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.9
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 1
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 0
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-23
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Current element :tariff
+2018-09-08 03:14:38,122 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Name : XXL
+2018-09-08 03:14:38,123 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Operator : Life
+2018-09-08 03:14:38,123 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Payroll : 27
+2018-09-08 03:14:38,123 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Call Prices: Internal : 0.08
+2018-09-08 03:14:38,123 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - External : 0.08
+2018-09-08 03:14:38,123 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Fixed phones : 0.08
+2018-09-08 03:14:38,123 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - SMS price : 0.04
+2018-09-08 03:14:38,123 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Parametres: Favourite numbers : 5
+2018-09-08 03:14:38,123 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Tariffings : 12-sec
+2018-09-08 03:14:38,123 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Connection fee : 27
+2018-09-08 03:14:38,123 [main] INFO  by.smirnov.taskXML.util.SchemaValidator - Date of connect : 2018-08-14
+2018-09-08 03:14:38,124 [main] INFO  by.smirnov.taskXML.runner.Runner - Stax Parser
+---------
+2018-09-08 03:14:38,145 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Unlim: Details (Operator: MTS Payroll: 16.37 Call Price - Internal calls: 0.03 External calls: 0.07 Calls on fixed phones: 0.07 SMS price: 0.05 Options - Favourite number: 1 Tariffing: ONE_MINUTE Connection fee: 16.37 Date of connect: Tue Aug 21 00:00:00 MSK 2018)
+2018-09-08 03:14:38,145 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - EasyTalk: Details (Operator: MTS Payroll: 0.6 Call Price - Internal calls: 0.07 External calls: 0.15 Calls on fixed phones: 0.15 SMS price: 0.02 Options - Favourite number: 2 Tariffing: TWELVE_SECONDS Connection fee: 0.6 Date of connect: Wed Aug 22 00:00:00 MSK 2018)
+2018-09-08 03:14:38,145 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Ultra: Details (Operator: MTS Payroll: 49.38 Call Price - Internal calls: 0.02 External calls: 0.08 Calls on fixed phones: 0.08 SMS price: 0.04 Options - Favourite number: 1 Tariffing: ONE_MINUTE Connection fee: 50.0 Date of connect: Sun Aug 05 00:00:00 MSK 2018)
+2018-09-08 03:14:38,146 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Absolut: Details (Operator: MTS Payroll: 133.9 Call Price - Internal calls: 0.0 External calls: 0.0 Calls on fixed phones: 0.0 SMS price: 0.0 Options - Favourite number: 5 Tariffing: ONE_MINUTE Connection fee: 135.0 Date of connect: Sun Aug 19 00:00:00 MSK 2018)
+2018-09-08 03:14:38,146 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Lite: Details (Operator: MTS Payroll: 6.07 Call Price - Internal calls: 0.04 External calls: 0.11 Calls on fixed phones: 0.11 SMS price: 0.05 Options - Favourite number: 1 Tariffing: TWELVE_SECONDS Connection fee: 3.0 Date of connect: Fri Aug 17 00:00:00 MSK 2018)
+2018-09-08 03:14:38,146 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Mini: Details (Operator: MTS Payroll: 12.25 Call Price - Internal calls: 0.03 External calls: 0.07 Calls on fixed phones: 0.07 SMS price: 0.05 Options - Favourite number: 2 Tariffing: TWELVE_SECONDS Connection fee: 3.0 Date of connect: Sat Jul 21 00:00:00 MSK 2018)
+2018-09-08 03:14:38,146 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Comfort: Details (Operator: VELCOM Payroll: 11.11 Call Price - Internal calls: 0.0 External calls: 0.14 Calls on fixed phones: 0.14 SMS price: 0.04 Options - Favourite number: 1 Tariffing: TWELVE_SECONDS Connection fee: 5.0 Date of connect: Sun Jul 01 00:00:00 MSK 2018)
+2018-09-08 03:14:38,146 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - ComfortDouble: Details (Operator: VELCOM Payroll: 16.72 Call Price - Internal calls: 0.0 External calls: 0.11 Calls on fixed phones: 0.11 SMS price: 0.04 Options - Favourite number: 2 Tariffing: TWELVE_SECONDS Connection fee: 5.0 Date of connect: Mon Jul 02 00:00:00 MSK 2018)
+2018-09-08 03:14:38,147 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - ComfortTriple: Details (Operator: VELCOM Payroll: 18.97 Call Price - Internal calls: 0.0 External calls: 0.08 Calls on fixed phones: 0.08 SMS price: 0.04 Options - Favourite number: 3 Tariffing: TWELVE_SECONDS Connection fee: 5.0 Date of connect: Wed Jul 25 00:00:00 MSK 2018)
+2018-09-08 03:14:38,147 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Lemon: Details (Operator: VELCOM Payroll: 29.9 Call Price - Internal calls: 0.07 External calls: 0.07 Calls on fixed phones: 0.07 SMS price: 0.04 Options - Favourite number: 5 Tariffing: TWELVE_SECONDS Connection fee: 29.9 Date of connect: Sun Jul 29 00:00:00 MSK 2018)
+2018-09-08 03:14:38,147 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Smart: Details (Operator: VELCOM Payroll: 56.02 Call Price - Internal calls: 0.0 External calls: 0.08 Calls on fixed phones: 0.08 SMS price: 0.04 Options - Favourite number: 2 Tariffing: ONE_MINUTE Connection fee: 40.0 Date of connect: Fri Aug 31 00:00:00 MSK 2018)
+2018-09-08 03:14:38,147 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Business: Details (Operator: VELCOM Payroll: 112.15 Call Price - Internal calls: 0.0 External calls: 0.0 Calls on fixed phones: 0.0 SMS price: 0.04 Options - Favourite number: 5 Tariffing: ONE_MINUTE Connection fee: 112.15 Date of connect: Sat Aug 11 00:00:00 MSK 2018)
+2018-09-08 03:14:38,149 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Start: Details (Operator: LIFE Payroll: 0.0 Call Price - Internal calls: 0.07 External calls: 0.07 Calls on fixed phones: 0.07 SMS price: 0.04 Options - Favourite number: 1 Tariffing: TWELVE_SECONDS Connection fee: 0.0 Date of connect: Thu Aug 30 00:00:00 MSK 2018)
+2018-09-08 03:14:38,149 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - WorldInHands: Details (Operator: LIFE Payroll: 0.0 Call Price - Internal calls: 0.08 External calls: 0.08 Calls on fixed phones: 0.08 SMS price: 0.04 Options - Favourite number: 5 Tariffing: TWELVE_SECONDS Connection fee: 0.0 Date of connect: Tue Aug 21 00:00:00 MSK 2018)
+2018-09-08 03:14:38,149 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - Android: Details (Operator: LIFE Payroll: 0.0 Call Price - Internal calls: 0.4 External calls: 0.9 Calls on fixed phones: 0.9 SMS price: 0.04 Options - Favourite number: 1 Tariffing: TWELVE_SECONDS Connection fee: 0.0 Date of connect: Thu Aug 23 00:00:00 MSK 2018)
+2018-09-08 03:14:38,150 [main] INFO  by.smirnov.taskXML.util.TariffsStax - Tariff - XXL: Details (Operator: LIFE Payroll: 27.0 Call Price - Internal calls: 0.08 External calls: 0.08 Calls on fixed phones: 0.08 SMS price: 0.04 Options - Favourite number: 5 Tariffing: TWELVE_SECONDS Connection fee: 27.0 Date of connect: Tue Aug 14 00:00:00 MSK 2018)

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.smirnov.by/tariffs"
+        xmlns:tns="http://www.smirnov.by/tariffs"
+        elementFormDefault="qualified">
+
+    <element name="tariffs">
+            <complexType>
+                <sequence>
+                    <element name="tariff"
+                             type="tns:Tariff"
+                             maxOccurs="unbounded"/>
+                </sequence>
+            </complexType>
+        </element>
+
+        <complexType name="Tariff">
+            <sequence>
+                <element name="name">
+                    <simpleType>
+                        <restriction base="ID">
+                            <pattern value="[A-Z](\w+)"/>
+                        </restriction>
+                    </simpleType>
+                </element>
+                <element name="operator" type="tns:Operator"/>
+                <element name="payroll" type="tns:Price"/>
+                <element name="call-prices" type="tns:Call-price"/>
+                <element name="SMS-price" type="tns:Price"/>
+                <element name="parameters" type="tns:Parameters"/>
+                <element name="Date-connect" type="date"/>
+            </sequence>
+        </complexType>
+
+            <simpleType name="Operator">
+                <restriction base="string">
+                    <enumeration value="MTS"/>
+                    <enumeration value="Velcom"/>
+                    <enumeration value="Life"/>
+                </restriction>
+            </simpleType>
+
+            <simpleType name="price-type">
+                <restriction base="float">
+                    <minInclusive value="0"/>
+                </restriction>
+            </simpleType>
+
+            <complexType name="Price">
+                <simpleContent>
+                    <extension base="tns:price-type">
+                        <attribute name="unit" type="string" fixed="BYN"/>
+                    </extension>
+                </simpleContent>
+            </complexType>
+
+            <complexType name="Call-price">
+                <sequence>
+                    <element name="internal" type="tns:Price"/>
+                    <element name="external" type="tns:Price"/>
+                    <element name="fixed-phones" type="tns:Price"/>
+                </sequence>
+            </complexType>
+
+            <complexType name="Parameters">
+                <sequence>
+                    <element name="favourite-number" type="tns:Favourite-number"/>
+                    <element name="tariffing" type="tns:Tariffing"/>
+                    <element name="connection-fee" type="tns:Price"/>
+                </sequence>
+            </complexType>
+
+            <simpleType name="Favourite-number">
+                <restriction base="positiveInteger">
+                    <minInclusive value="1"/>
+                    <maxInclusive value="5"/>
+                </restriction>
+            </simpleType>
+
+            <simpleType name="Tariffing">
+                <restriction base="string">
+                    <enumeration value="12-sec"/>
+                    <enumeration value="1-min"/>
+                </restriction>
+            </simpleType>
+
+</schema>
